@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Compare</string>
+    <string name="loading_label">Анализ плейлиста</string>
+    <string name="search_audio_button">Анализировать плейлист</string>
+</resources>
